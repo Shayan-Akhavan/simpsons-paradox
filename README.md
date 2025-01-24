@@ -18,3 +18,7 @@ This paradox could arise if:
 * One treatment is more effective for younger patients, while the other is more effective for older patients.  
 
 Implications: Simpson's Paradox teaches us the importance of considering the context and grouping of data before making conclusions. It emphasizes the need to understand underlying factors and not to rely solely on aggregated data.
+
+**Visuals**
+
+Trends can shift when combining different groups
